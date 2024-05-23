@@ -19,3 +19,11 @@ streamline the process of extracting text information from business card images.
 The use of regular expressions (RegEx) facilitates the parsing and extraction of specific fields such as name, designation, company, and contact details.
 To ensure easy retrieval and analysis, the extracted information is stored in a MySQL database.
 For user convenience, a friendly interface built with Streamlit allows users to effortlessly upload images, extract information, and interact with the database, providing a seamless experience in managing business card data.
+
+## User Interface
+
+1. ![1](https://github.com/baymax18/Business-Card-Extraction/assets/33507845/e3044355-ea8b-4b3d-ade2-34e292ae2933)
+2. ![2](https://github.com/baymax18/Business-Card-Extraction/assets/33507845/ca73e017-83af-4f82-a55e-bbe85126635b)
+3. ![3](https://github.com/baymax18/Business-Card-Extraction/assets/33507845/462d9e6f-1777-4f3c-b51d-280d13177240)
+
+
